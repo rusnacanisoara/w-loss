@@ -1,0 +1,226 @@
+var new_lang = {
+  "lt0": "Oameni",
+
+  "lt1": "Politică",
+
+  "lt2": "Modă",
+
+  "lt3": "Frumusețe",
+
+  "lt4": "Bio oameni",
+
+  "lt5": "Văzut în Instagram",
+
+  "lt6": "Nunta celebrităților",
+
+  "lt7": "Copiii celebrităților",
+
+  "lt8": "Divorțat",
+
+  "lt9": "Abonează-te",
+
+  "lt10": "Caută",
+
+  "lt11": "Actual:",
+
+  "lt12": "Miss Univers",
+
+  "lt13": "Moștenirea lui Johnny Holliday",
+
+  "lt14": "Alăturați-vă unei cafenele pentru cititori",
+
+  "lt15": "Acasă",
+
+  "lt16": "Oameni",
+
+  "lt17": "Hackerii au pus pe internet corespondență a nutriționistului de la Hollywood, dezvăluind secretul zvelteții vedetelor",
+
+  "lt18": "Facebook",
+
+  "lt19": "Opinia redacției",
+
+  "lt20": "Publicat",
+
+  "lt22": "Actualizat",
+
+  "lt24": "Hackerii necunoscuți au spart iCloud-ul nutriționistului american James Roberts, al cărui clienți constitue aproape întreaga listă a Hollywood-ului. Corespondența cu fotografiile personale ale vedetelor și descrierea procesului de pierderea în greutate au ajuns pe internet.",
+
+  "lt25": "După cum s-a dovedit, poveștile celebrităților despre hobby-ul lor de sport și diete s-au dovedit a fi basme concepute pentru publicul credul. Operațiile de rezecție a stomacului și liposucție nu au avut, de asemenea, nici o legătură.",
+
+  "lt26": "James Roberts",
+
+  "lt27": "În corespondența personală a lui Roberts cu vedetele, nu a existat niciun cuvânt despre alimentația sănătoasă și exercițiile fizice. În listele clienților săi au fost:",
+
+  "lt28": "Mrs K",
+
+  "lt29": "James, bună ziua!<br>Paparazii m-au fotografiat ieri pe plajă într-o formă înfiorătoare și au pus aceste fotografii pe internet. Ce să fac? Sfătuiește-mă!",
+
+  "lt31": "Salutare<br> Ce fel de fotografie? Nu am avut timp să mă uit la tabloidele de astăzi.",
+
+  "lt33": "Fundul arată doar înfiorător!",
+
+  "lt36": "Oh... De ce nu ai venit la mine mai devreme? Vom acționa conform schemei vechi - vei lua XX",
+
+  "lt38": "Bri",
+
+  "lt39": "James...!! Ești un magician... .! XX funcționează într-adevăr! În această dimineață am aflat că am reușit să pierd 11 kilograme într-o săptămână! E extraordinar...!",
+
+  "lt41": "Bună ziua, draga mea, poți să-mi trimiți o poză înainte și după?",
+
+  "lt43": "Da, desigur!",
+
+  "lt46": "Arăți uimitor! E cea mai bună formă a ta, ești superbă.",
+
+  "lt49": "Victoria B",
+
+  "lt50": "James, îți mulțumesc că mă ajuți să-mi mențin forma perfectă. XX face minuni",
+
+  "lt53": "Hide, asta e treaba mea.",
+
+  "lt55": "E așa. Știi ce purceluș devin când câștig în greutate.",
+
+  "lt57": "Apropo, ai auzit de lansarea noii mele colecții? Ți-am trimis câteva invitații la prezentarea mea de modă.",
+
+  "lt59": "Wow! Da, desigur, voi veni.",
+
+  "lt61": "După cum s-a dovedit, toate aceste persoane celebre slăbesc, complet fără a adera la principiile unei alimentații sănătoase:",
+
+  "lt62": "Mrs K",
+
+  "lt63": "James, ne-am adunat astăzi împreună cu surorile mele, am mâncat prea mult<br>Nu mă voi mai îngrășa din nou?",
+
+  "lt65": "Nu, nu-ți face griji.<br>Dacă vrei, pentru satisfacția ta, bea doar o dublă porție de XX.",
+
+  "lt67": "Bine, mulțumesc! Apropo, aici sunt rezultatele mele. Am luat XX timp de trei săptămâni de când au fost făcute aceleași fotografii. Pielea s-a strâns și a devenit foarte elastică",
+
+  "lt70": "Bri",
+
+  "lt71": "James, am nevoie urgent de un alt ambalaj de XX.....!<br> Am un turneu de concert pe cale să înceapă, și timp de câteva zile la rând am mâncat mult din cauza certei cu prietenul meu<br>Uite ce orori am făcut……",
+
+  "lt74": "Nu-ți face griji, îți trimit ambalaje noi.",
+
+  "lt76": "mulțumesc……",
+
+  "lt78": "Victoria B",
+
+  "lt79": "James, astăzi a fost o cină copioasă de familie, trebuie să schimb cumva modul de administrare a XX?",
+
+  "lt81": "Victoria, trebuie să iei o porție dublă de XX",
+
+  "lt83": "Bine<br>Apropo, David îți transmite salutări<br>El a câștigat recent în greutate. Doza de XX pentru bărbați este aceeași? Și el vrea să încerce",
+
+  "lt85": "Da, să ia în conformitate cu aceeași schemă",
+
+  "lt87": "După cum se poate observa din corespondență, toate vedetele au pierdut în greutate, folosind un remediu misterios numit <a href=\"\">XX</a> . Ce este acest lucru minunat? Pentru clarificări, ne-am adresat profesorului de nutriție de la Institutul de Sănătate Ana Țurcan:",
+
+  "lt88": "« <a href=\"\">XX</a>–este un stimulent destul de popular pentru pierderea în greutate. Deci, nu am văzut nimic senzațional pentru mine în această e-corespondență. El a fost mult timp cunoscut în America și la noi.",
+
+  "lt89": "<a href=\"\">XX</a> transformă propria noastră grăsime în energie, accelerează metabolismul și suprimă foamea. Reduce digestibilitatea caloriilor consumate, crește elasticitatea pielii, împiedicând-o să se lase, reglează procesele metabolice.",
+
+  "lt90": "Ce este demn de remarcat: <a href=\"\">XX</a> este un remediu complet natural. Componentele sale descompun grăsimea viscerală, elimină excesul de apă din organism, distrug celulele grase.",
+
+  "lt91": "Astfel, <a href=\"\">XX</a> ajută la scăderea excesului de greutate în mod complet automat fără a fi nevoie să urmați o dietă și să vă epuizați cu sportul.»",
+
+  "lt92": "De la redacție: Am contactat reprezentanții <a href=\"\">XX</a> în țara noastră și am aflat că în prezent remediul este disponibil pentru comandă pe site-ul oficial cu reducere. Împărtășim link-ul:",
+
+  "lt93": "Cumpără XX cu reducere",
+
+  "lt94": "Comentarii",
+
+  "lt95": "Alina Meșteșug:",
+
+  "lt97": "Întotdeauna am știut că vedetele ne spun minciuni în ceea ce privește alimentația sănătoasă și sportul!",
+
+  "lt98": "Maria Necula:",
+
+  "lt100": "Ha, Ha, am știut de mult despre <a href=\"\">XX</a> și am pierdut în greutate cu el. Este un lucru foarte cool. De ani de zile nu am putut pierde kilogramele în plus – ba slăbeam, ba mă îngrășam înapoi, recidivam constant. Cu<a href=\"\">XX</a> am reușit să piard în greutate în doar câteva luni. Iată e rezultatul meu:<div class=\"commits__media\"><img alt=\"\" src=\"img/face2-2.jpg\"></div>",
+
+  "lt101": "Olga Botezatu:",
+
+  "lt103": "Wow! Am comandat<a href=\"\">XX</a> și eu",
+
+  "lt104": "Igor Vasilachi:",
+
+  "lt106": "Acestea sunt Kim Kardashian, Britney Spears și Victoria Beckham???? Minunat.)",
+
+  "lt107": "Natalia Dumneanu:",
+
+  "lt109": "Cred că da) toți ne mint despre super-dietele lor, dar așa este cu adevărat. Vreau să pierd 10 kilograme... de asemenea, cred că voi comanda <a href=\"\">XX</a> . Prieteni, a mai slăbit cineva cu ajutorul acestui remediu? Spuneți povestirile voastre",
+
+  "lt110": "Gloria Ursu:",
+
+  "lt112": "Natalia, da, eu am pierdut în greutate. După naștere, am câștigat 20 de kilograme, nu am putut pierde, dieta nu a funcționat, am recidivat în mod constant, mâncând prăjituri din cauza propriilor eșecuri. Situația s-a înrăutățit, din cauza stresului și a nervilor cu copilul, am câștigat încă 10 kg. În cele din urmă, la o înălțime de 165 cm am cântărit 90 kg! De la prietena am aflat despre <a href=\"\">XX</a>, am cumpărat, nu a crezut că funcționează cu adevărat. Da, este un super-remediu! Iată e o fotografie înainte-după<div class=\"commits__media\"><img alt=\"\" src=\"img/face6-6.jpg\"></div>",
+
+  "lt113": "Corina Vlas:",
+
+  "lt115": "Wow, ce rezultate! Foarte inspirat!!",
+
+  "lt116": "Polina Lașcu:",
+
+  "lt118": "De asemenea, mi-am comandat <a href=\"\">XX</a>",
+
+  "lt119": "Eugenia Oancea:",
+
+  "lt121": "Eu am primit deja coletul meu. Încep să iau și aștept același miracol)",
+
+  "lt122": "Otilia Graur:",
+
+  "lt124": "Minunat.",
+
+  "lt126": "Vreți să scrieți un mesaj?",
+
+  "lt127": "Trimiteți",
+
+  "lt128": "DISTRIBUIȚI ACEST ARTICOL",
+
+  "lt129": "Facebook",
+
+  "lt130": "Actual",
+
+  "lt131": "Oricine poate fi demascat",
+
+  "lt132": "+ mai mult",
+
+  "lt133": "Demascare",
+
+  "lt134": "M-am săturat să îndur și m-am săturat să mă tem. adversară...",
+
+  "lt135": "Totul se repetă în viață. De ce se întâmplă așa și cum...",
+
+  "lt136": "Despre noi",
+
+  "lt137": "Contacte",
+
+  "lt138": "Informație",
+
+  "lt139": "Ajutor",
+
+  "lt140": "Știri",
+
+  "lt141": "Aplicație",
+
+  "lt142": "Abonați-vă",
+
+  "lt143": "Toate subiectele",
+
+  "lt144": "Notificare oficială",
+
+  "lt145": "Statutul datelor cu caracter personal",
+
+  "lt146": "Contactați-ne",
+
+  "lt147": "Gestionați mesajele mele",
+
+  "lt148": "© Closermag - Toate drepturile rezervate"
+};
+
+function Translater() {
+  for (class_name in new_lang) {
+    var elements = document.getElementsByClassName(class_name);
+    if (elements.length) {
+      for (key in elements) {
+        elements[key].innerHTML = new_lang[class_name];
+      }
+    }
+  }
+};
